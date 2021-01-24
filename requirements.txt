@@ -1,0 +1,4 @@
+googlemaps
+requests>=2.20.0
+SQLAlchemy
+mysqlclient
